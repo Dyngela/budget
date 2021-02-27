@@ -1,3 +1,8 @@
+Angular budget's small and simple app
+
+You have a sum, and you can add or substract amount to that sum throught a form.
+
+
 # BudgetApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
